@@ -796,6 +796,7 @@ MonoBehaviour:
   taaMotionVectorRejection: 0
   taaAntiHistoryRinging: 0
   taaBaseBlendFactor: 0.875
+  taaJitterScale: 1
   physicalParameters:
     m_Iso: 200
     m_ShutterSpeed: 0.005
@@ -1014,6 +1015,7 @@ MonoBehaviour:
   taaMotionVectorRejection: 0
   taaAntiHistoryRinging: 0
   taaBaseBlendFactor: 0.875
+  taaJitterScale: 1
   physicalParameters:
     m_Iso: 200
     m_ShutterSpeed: 0.005
@@ -1813,6 +1815,7 @@ MonoBehaviour:
   taaMotionVectorRejection: 0
   taaAntiHistoryRinging: 0
   taaBaseBlendFactor: 0.875
+  taaJitterScale: 1
   physicalParameters:
     m_Iso: 200
     m_ShutterSpeed: 0.005
@@ -2278,6 +2281,7 @@ MonoBehaviour:
   taaMotionVectorRejection: 0
   taaAntiHistoryRinging: 0
   taaBaseBlendFactor: 0.875
+  taaJitterScale: 1
   physicalParameters:
     m_Iso: 200
     m_ShutterSpeed: 0.005
@@ -3947,6 +3951,7 @@ PrefabInstance:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Modification:
+    serializedVersion: 2
     m_TransformParent: {fileID: 559805929}
     m_Modifications:
     - target: {fileID: 1595808682013958733, guid: 7acf20c26d3308d4a933cbaf4a89948c, type: 3}
@@ -4081,10 +4086,22 @@ PrefabInstance:
       propertyPath: syncTvsAndSpeakers.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_ObjectArgumentAssemblyTypeName
       value: UnityEngine.Object, UnityEngine
       objectReference: {fileID: 0}
+    - target: {fileID: 1842961185950812558, guid: 7acf20c26d3308d4a933cbaf4a89948c, type: 3}
+      propertyPath: m_Texture
+      value: 
+      objectReference: {fileID: 2800000, guid: fa4d0d549b98dda44a2afa5109f40d70, type: 3}
+    - target: {fileID: 5215550094634097054, guid: 7acf20c26d3308d4a933cbaf4a89948c, type: 3}
+      propertyPath: m_Texture
+      value: 
+      objectReference: {fileID: 2800000, guid: fa4d0d549b98dda44a2afa5109f40d70, type: 3}
     - target: {fileID: 5215550094714534668, guid: 7acf20c26d3308d4a933cbaf4a89948c, type: 3}
       propertyPath: m_IsActive
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 5215550094828468931, guid: 7acf20c26d3308d4a933cbaf4a89948c, type: 3}
+      propertyPath: m_Texture
+      value: 
+      objectReference: {fileID: 2800000, guid: fa4d0d549b98dda44a2afa5109f40d70, type: 3}
     - target: {fileID: 5215550094840787890, guid: 7acf20c26d3308d4a933cbaf4a89948c, type: 3}
       propertyPath: m_IsActive
       value: 0
@@ -4097,10 +4114,18 @@ PrefabInstance:
       propertyPath: m_IsActive
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 5215550095502379883, guid: 7acf20c26d3308d4a933cbaf4a89948c, type: 3}
+      propertyPath: m_Texture
+      value: 
+      objectReference: {fileID: 2800000, guid: fa4d0d549b98dda44a2afa5109f40d70, type: 3}
     - target: {fileID: 5215550095651731399, guid: 7acf20c26d3308d4a933cbaf4a89948c, type: 3}
       propertyPath: m_IsActive
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 5215550095728120903, guid: 7acf20c26d3308d4a933cbaf4a89948c, type: 3}
+      propertyPath: m_Texture
+      value: 
+      objectReference: {fileID: 2800000, guid: fa4d0d549b98dda44a2afa5109f40d70, type: 3}
     - target: {fileID: 5215550095844460287, guid: 7acf20c26d3308d4a933cbaf4a89948c, type: 3}
       propertyPath: m_IsActive
       value: 0
@@ -4113,6 +4138,10 @@ PrefabInstance:
       propertyPath: m_PreserveAspect
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 5215550095888239570, guid: 7acf20c26d3308d4a933cbaf4a89948c, type: 3}
+      propertyPath: m_Texture
+      value: 
+      objectReference: {fileID: 2800000, guid: fa4d0d549b98dda44a2afa5109f40d70, type: 3}
     - target: {fileID: 5215550095897422190, guid: 7acf20c26d3308d4a933cbaf4a89948c, type: 3}
       propertyPath: ffSpeed
       value: 
@@ -7979,6 +8008,22 @@ PrefabInstance:
       propertyPath: m_IsActive
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 5215550096011926183, guid: 7acf20c26d3308d4a933cbaf4a89948c, type: 3}
+      propertyPath: m_Texture
+      value: 
+      objectReference: {fileID: 2800000, guid: fa4d0d549b98dda44a2afa5109f40d70, type: 3}
+    - target: {fileID: 5215550096177350731, guid: 7acf20c26d3308d4a933cbaf4a89948c, type: 3}
+      propertyPath: m_Texture
+      value: 
+      objectReference: {fileID: 2800000, guid: fa4d0d549b98dda44a2afa5109f40d70, type: 3}
+    - target: {fileID: 5215550096275178487, guid: 7acf20c26d3308d4a933cbaf4a89948c, type: 3}
+      propertyPath: m_Texture
+      value: 
+      objectReference: {fileID: 2800000, guid: fa4d0d549b98dda44a2afa5109f40d70, type: 3}
+    - target: {fileID: 5215550096363001733, guid: 7acf20c26d3308d4a933cbaf4a89948c, type: 3}
+      propertyPath: m_Texture
+      value: 
+      objectReference: {fileID: 2800000, guid: fa4d0d549b98dda44a2afa5109f40d70, type: 3}
     - target: {fileID: 5215550096533099534, guid: 7acf20c26d3308d4a933cbaf4a89948c, type: 3}
       propertyPath: m_IsActive
       value: 0
@@ -8031,12 +8076,17 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 30
       objectReference: {fileID: 0}
+    - target: {fileID: 6196932859558803416, guid: 7acf20c26d3308d4a933cbaf4a89948c, type: 3}
+      propertyPath: m_Texture
+      value: 
+      objectReference: {fileID: 2800000, guid: fa4d0d549b98dda44a2afa5109f40d70, type: 3}
     - target: {fileID: 6271648905452401700, guid: 7acf20c26d3308d4a933cbaf4a89948c, type: 3}
       propertyPath: m_Volume
       value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents:
     - {fileID: 829633218951942376, guid: 7acf20c26d3308d4a933cbaf4a89948c, type: 3}
+    m_AddedGameObjects: []
   m_SourcePrefab: {fileID: 100100000, guid: 7acf20c26d3308d4a933cbaf4a89948c, type: 3}
 --- !u!4 &1353782686 stripped
 Transform:
@@ -8728,6 +8778,7 @@ MonoBehaviour:
   taaMotionVectorRejection: 0
   taaAntiHistoryRinging: 0
   taaBaseBlendFactor: 0.875
+  taaJitterScale: 1
   physicalParameters:
     m_Iso: 200
     m_ShutterSpeed: 0.005
@@ -9140,6 +9191,7 @@ MonoBehaviour:
   taaMotionVectorRejection: 0
   taaAntiHistoryRinging: 0
   taaBaseBlendFactor: 0.875
+  taaJitterScale: 1
   physicalParameters:
     m_Iso: 200
     m_ShutterSpeed: 0.005
@@ -9501,20 +9553,24 @@ Light:
   m_ShadowAngle: 0
 --- !u!21 &1801320210
 Material:
-  serializedVersion: 6
+  serializedVersion: 8
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: Shader Graphs/DefaultCompositionGraph
   m_Shader: {fileID: -6465566751694194690, guid: 7bcb43ba8caadd644a59a14a842a0f00, type: 3}
-  m_ShaderKeywords: 
+  m_Parent: {fileID: 0}
+  m_ModifiedSerializedProperties: 0
+  m_ValidKeywords: []
+  m_InvalidKeywords: []
   m_LightmapFlags: 4
   m_EnableInstancingVariants: 0
   m_DoubleSidedGI: 0
   m_CustomRenderQueue: -1
   stringTagMap: {}
   disabledShaderPasses: []
+  m_LockedProperties: 
   m_SavedProperties:
     serializedVersion: 3
     m_TexEnvs:
@@ -9699,6 +9755,7 @@ MonoBehaviour:
   taaMotionVectorRejection: 0
   taaAntiHistoryRinging: 0
   taaBaseBlendFactor: 0.875
+  taaJitterScale: 1
   physicalParameters:
     m_Iso: 200
     m_ShutterSpeed: 0.005
@@ -10292,6 +10349,7 @@ MonoBehaviour:
   taaMotionVectorRejection: 0
   taaAntiHistoryRinging: 0
   taaBaseBlendFactor: 0.875
+  taaJitterScale: 1
   physicalParameters:
     m_Iso: 200
     m_ShutterSpeed: 0.005
@@ -10695,6 +10753,7 @@ PrefabInstance:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Modification:
+    serializedVersion: 2
     m_TransformParent: {fileID: 559805929}
     m_Modifications:
     - target: {fileID: 2730717641237170491, guid: 7317c0414aa0345428649f966e7f42b6, type: 3}
@@ -10794,6 +10853,7 @@ PrefabInstance:
       value: kflow
       objectReference: {fileID: 0}
     m_RemovedComponents: []
+    m_AddedGameObjects: []
   m_SourcePrefab: {fileID: 100100000, guid: 7317c0414aa0345428649f966e7f42b6, type: 3}
 --- !u!114 &2045854398 stripped
 MonoBehaviour:

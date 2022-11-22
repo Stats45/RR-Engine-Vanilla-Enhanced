@@ -7685,10 +7685,30 @@ PrefabInstance:
       propertyPath: syncTvsAndSpeakers.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_ObjectArgumentAssemblyTypeName
       value: UnityEngine.Object, UnityEngine
       objectReference: {fileID: 0}
+    - target: {fileID: 1842961185950812558, guid: 7acf20c26d3308d4a933cbaf4a89948c, type: 3}
+      propertyPath: m_Texture
+      value: 
+      objectReference: {fileID: 2800000, guid: fa4d0d549b98dda44a2afa5109f40d70, type: 3}
+    - target: {fileID: 5215550094634097054, guid: 7acf20c26d3308d4a933cbaf4a89948c, type: 3}
+      propertyPath: m_Texture
+      value: 
+      objectReference: {fileID: 2800000, guid: fa4d0d549b98dda44a2afa5109f40d70, type: 3}
+    - target: {fileID: 5215550094828468931, guid: 7acf20c26d3308d4a933cbaf4a89948c, type: 3}
+      propertyPath: m_Texture
+      value: 
+      objectReference: {fileID: 2800000, guid: fa4d0d549b98dda44a2afa5109f40d70, type: 3}
     - target: {fileID: 5215550095263318370, guid: 7acf20c26d3308d4a933cbaf4a89948c, type: 3}
       propertyPath: thePlayer
       value: 
       objectReference: {fileID: 824595388}
+    - target: {fileID: 5215550095502379883, guid: 7acf20c26d3308d4a933cbaf4a89948c, type: 3}
+      propertyPath: m_Texture
+      value: 
+      objectReference: {fileID: 2800000, guid: fa4d0d549b98dda44a2afa5109f40d70, type: 3}
+    - target: {fileID: 5215550095728120903, guid: 7acf20c26d3308d4a933cbaf4a89948c, type: 3}
+      propertyPath: m_Texture
+      value: 
+      objectReference: {fileID: 2800000, guid: fa4d0d549b98dda44a2afa5109f40d70, type: 3}
     - target: {fileID: 5215550095859567355, guid: 7acf20c26d3308d4a933cbaf4a89948c, type: 3}
       propertyPath: m_Sprite
       value: 
@@ -12363,6 +12383,10 @@ PrefabInstance:
       propertyPath: recordingGroups.Array.data[15].inputNames.Array.data[13].index.Array.data[0]
       value: 94
       objectReference: {fileID: 0}
+    - target: {fileID: 5215550096363001733, guid: 7acf20c26d3308d4a933cbaf4a89948c, type: 3}
+      propertyPath: m_Texture
+      value: 
+      objectReference: {fileID: 2800000, guid: fa4d0d549b98dda44a2afa5109f40d70, type: 3}
     - target: {fileID: 5758945385194177687, guid: 7acf20c26d3308d4a933cbaf4a89948c, type: 3}
       propertyPath: m_RootOrder
       value: 1
@@ -12411,6 +12435,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 30
       objectReference: {fileID: 0}
+    - target: {fileID: 6196932859558803416, guid: 7acf20c26d3308d4a933cbaf4a89948c, type: 3}
+      propertyPath: m_Texture
+      value: 
+      objectReference: {fileID: 2800000, guid: fa4d0d549b98dda44a2afa5109f40d70, type: 3}
     - target: {fileID: 6271648905452401700, guid: 7acf20c26d3308d4a933cbaf4a89948c, type: 3}
       propertyPath: m_Volume
       value: 0
