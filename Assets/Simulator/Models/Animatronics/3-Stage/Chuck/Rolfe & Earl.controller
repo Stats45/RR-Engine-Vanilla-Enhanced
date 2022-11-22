@@ -117,7 +117,7 @@ AnimatorState:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Rolfe|Arm Twist R
+  m_Name: Chuck|Arm Twist R
   m_Speed: 1
   m_CycleOffset: 0
   m_Transitions: []
@@ -143,7 +143,7 @@ AnimatorState:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Mouth
+  m_Name: Chuck|Mouth
   m_Speed: 0
   m_CycleOffset: 0
   m_Transitions: []
@@ -169,7 +169,7 @@ AnimatorState:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Rolfe|Ear L
+  m_Name: Chuck|Ear L
   m_Speed: 1
   m_CycleOffset: 0
   m_Transitions: []
@@ -283,7 +283,7 @@ AnimatorState:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Rolfe|Body Turn Right
+  m_Name: Chuck|Body Turn Right
   m_Speed: 1
   m_CycleOffset: 0
   m_Transitions: []
@@ -375,7 +375,7 @@ AnimatorState:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Rolfe|Head Left
+  m_Name: Chuck|Head Left
   m_Speed: 1
   m_CycleOffset: 0
   m_Transitions: []
@@ -401,7 +401,7 @@ AnimatorState:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Rolfe|Eyes Right
+  m_Name: Chuck|Eyes Right
   m_Speed: 1
   m_CycleOffset: 0
   m_Transitions: []
@@ -427,7 +427,7 @@ AnimatorState:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Rolfe|Head Up
+  m_Name: Chuck|Head Up
   m_Speed: 1
   m_CycleOffset: 0
   m_Transitions: []
@@ -475,7 +475,7 @@ AnimatorState:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Rolfe|Earl Eyebrow
+  m_Name: Chuck|Puppet Eyebrow
   m_Speed: 1
   m_CycleOffset: 0
   m_Transitions: []
@@ -523,7 +523,7 @@ AnimatorState:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Rolfe|Arm R
+  m_Name: Chuck|Arm R
   m_Speed: 1
   m_CycleOffset: 0
   m_Transitions: []
@@ -549,7 +549,7 @@ AnimatorState:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Rolfe|Arm L
+  m_Name: Chuck|Arm L
   m_Speed: 1
   m_CycleOffset: 0
   m_Transitions: []
@@ -619,7 +619,7 @@ AnimatorState:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Rolfe|EarlMouth
+  m_Name: Chuck|Puppet Mouth
   m_Speed: 1
   m_CycleOffset: 0
   m_Transitions: []
@@ -1051,7 +1051,7 @@ AnimatorState:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Rolfe|Eyelid L
+  m_Name: Chuck|Eyelid L
   m_Speed: 1
   m_CycleOffset: 0
   m_Transitions: []
@@ -1077,7 +1077,7 @@ AnimatorState:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Rolfe|Head Right
+  m_Name: Chuck|Head Right
   m_Speed: 1
   m_CycleOffset: 0
   m_Transitions: []
@@ -1103,7 +1103,7 @@ AnimatorState:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Rolfe|Eyelid R
+  m_Name: Chuck|Eyelid R
   m_Speed: 1
   m_CycleOffset: 0
   m_Transitions: []
@@ -1129,7 +1129,7 @@ AnimatorState:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Rolfe|Body Lean
+  m_Name: Chuck|Body Lean
   m_Speed: 1
   m_CycleOffset: 0
   m_Transitions: []
@@ -1221,7 +1221,7 @@ AnimatorState:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Rolfe|Ear R
+  m_Name: Chuck|Ear R
   m_Speed: 1
   m_CycleOffset: 0
   m_Transitions: []
@@ -1247,7 +1247,7 @@ AnimatorState:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Rolfe|Shoulder R
+  m_Name: Chuck|Shoulder R
   m_Speed: 1
   m_CycleOffset: 0
   m_Transitions: []
@@ -1295,7 +1295,7 @@ AnimatorState:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Rolfe|Wrist L
+  m_Name: Chuck|Wrist L
   m_Speed: 1
   m_CycleOffset: 0
   m_Transitions: []
@@ -1365,7 +1365,7 @@ AnimatorState:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Rolfe|Shoulder L
+  m_Name: Chuck|Shoulder L
   m_Speed: 1
   m_CycleOffset: 0
   m_Transitions: []
@@ -1391,7 +1391,7 @@ AnimatorState:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Rolfe|Earl Tilt
+  m_Name: Chuck|Puppet Tilt
   m_Speed: 1
   m_CycleOffset: 0
   m_Transitions: []
@@ -1417,7 +1417,7 @@ AnimatorState:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Body Turn Left_002
+  m_Name: Chuck|Body Turn Left
   m_Speed: 1
   m_CycleOffset: 0
   m_Transitions: []
@@ -1443,7 +1443,7 @@ AnimatorState:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Rolfe|Eyes Left
+  m_Name: Chuck|Eyes Left
   m_Speed: 1
   m_CycleOffset: 0
   m_Transitions: []

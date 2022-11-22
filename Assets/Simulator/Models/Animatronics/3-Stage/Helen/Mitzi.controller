@@ -7,7 +7,7 @@ AnimatorState:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Mitzi|Body Turn Right
+  m_Name: Helen|Body Turn Left
   m_Speed: 1
   m_CycleOffset: 0
   m_Transitions: []
@@ -165,7 +165,7 @@ AnimatorState:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Mitzi|Head Up
+  m_Name: Helen|Head Up
   m_Speed: 1
   m_CycleOffset: 0
   m_Transitions: []
@@ -191,7 +191,7 @@ AnimatorState:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Mitzi|Arm L
+  m_Name: Helen|Arm L
   m_Speed: 1
   m_CycleOffset: 0
   m_Transitions: []
@@ -239,7 +239,7 @@ AnimatorState:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Mitzi|Shoulder L
+  m_Name: Helen|Shoulder L
   m_Speed: 1
   m_CycleOffset: 0
   m_Transitions: []
@@ -287,7 +287,7 @@ AnimatorState:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Mitzi|Arm R
+  m_Name: Helen|Arm R
   m_Speed: 1
   m_CycleOffset: 0
   m_Transitions: []
@@ -335,7 +335,7 @@ AnimatorState:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Mitzi|Body Lean
+  m_Name: Helen|Body Lean
   m_Speed: 1
   m_CycleOffset: 0
   m_Transitions: []
@@ -405,7 +405,7 @@ AnimatorState:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Mitzi|Eyelid R
+  m_Name: Helen|Eyelid R
   m_Speed: 1
   m_CycleOffset: 0
   m_Transitions: []
@@ -431,7 +431,7 @@ AnimatorState:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Mitzi|Ear L
+  m_Name: Helen|Pigtail L
   m_Speed: 1
   m_CycleOffset: 0
   m_Transitions: []
@@ -479,7 +479,7 @@ AnimatorState:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Mitzi|Eyes Left
+  m_Name: Helen|Eyes Left
   m_Speed: 1
   m_CycleOffset: 0
   m_Transitions: []
@@ -505,7 +505,7 @@ AnimatorState:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Mitzi|Ear R
+  m_Name: Helen|Pigtail R
   m_Speed: 1
   m_CycleOffset: 0
   m_Transitions: []
@@ -905,7 +905,7 @@ AnimatorState:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Mitzi|Eyes Right
+  m_Name: Helen|Eyes Right
   m_Speed: 1
   m_CycleOffset: 0
   m_Transitions: []
@@ -931,7 +931,7 @@ AnimatorState:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Mitzi|Mouth Rolfe
+  m_Name: Helen|Mouth
   m_Speed: 1
   m_CycleOffset: 0
   m_Transitions: []
@@ -957,7 +957,7 @@ AnimatorState:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Mitzi|body do left
+  m_Name: Helen|Body Turn Left
   m_Speed: 1
   m_CycleOffset: 0
   m_Transitions: []
@@ -1049,7 +1049,7 @@ AnimatorState:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Mitzi|Wrist L
+  m_Name: Helen|Wrist L
   m_Speed: 1
   m_CycleOffset: 0
   m_Transitions: []
@@ -1097,7 +1097,7 @@ AnimatorState:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Mitzi|Head Right
+  m_Name: Helen|Head Right
   m_Speed: 1
   m_CycleOffset: 0
   m_Transitions: []
@@ -1167,7 +1167,7 @@ AnimatorState:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Mitzi|Shoulder R
+  m_Name: Helen|Shoulder R
   m_Speed: 1
   m_CycleOffset: 0
   m_Transitions: []
@@ -1193,7 +1193,7 @@ AnimatorState:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Mitzi|Arm Twist R
+  m_Name: Helen|Arm Twist R
   m_Speed: 1
   m_CycleOffset: 0
   m_Transitions: []
@@ -1219,7 +1219,7 @@ AnimatorState:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Mitzi|Head Left
+  m_Name: Helen|Head Left
   m_Speed: 1
   m_CycleOffset: 0
   m_Transitions: []
@@ -1245,7 +1245,7 @@ AnimatorState:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Mitzi|Eyelid L
+  m_Name: Helen|Eyelid L
   m_Speed: 1
   m_CycleOffset: 0
   m_Transitions: []

@@ -7,7 +7,7 @@ AnimatorState:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Arm Twist
+  m_Name: Pasqually|Elbow R
   m_Speed: 1
   m_CycleOffset: 0
   m_Transitions: []
@@ -77,7 +77,7 @@ AnimatorState:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Eyes Left
+  m_Name: Pasqually|Eyes Left
   m_Speed: 1
   m_CycleOffset: 0
   m_Transitions: []
@@ -103,7 +103,7 @@ AnimatorState:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Fatz|FelbowL
+  m_Name: Pasqually|Elbow L
   m_Speed: 1
   m_CycleOffset: 0
   m_Transitions: []
@@ -129,7 +129,7 @@ AnimatorState:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Eyelid R
+  m_Name: Pasqually|Eyelid R
   m_Speed: 1
   m_CycleOffset: 0
   m_Transitions: []
@@ -155,7 +155,7 @@ AnimatorState:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Fatz|Eyes Right
+  m_Name: Pasqually|Eyes Right
   m_Speed: 1
   m_CycleOffset: 0
   m_Transitions: []
@@ -203,7 +203,7 @@ AnimatorState:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Head Up
+  m_Name: Pasqually|Head Up
   m_Speed: 1
   m_CycleOffset: 0
   m_Transitions: []
@@ -273,7 +273,7 @@ AnimatorState:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Mouth
+  m_Name: Pasqually|Mouth
   m_Speed: 1
   m_CycleOffset: 0
   m_Transitions: []
@@ -321,7 +321,7 @@ AnimatorState:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Head Left
+  m_Name: Pasqually|Head Left
   m_Speed: 1
   m_CycleOffset: 0
   m_Transitions: []
@@ -697,7 +697,7 @@ AnimatorState:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Head Right
+  m_Name: Pasqually|Head Right
   m_Speed: 1
   m_CycleOffset: 0
   m_Transitions: []
@@ -723,7 +723,7 @@ AnimatorState:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Eyelid L
+  m_Name: Pasqually|Eyelid L
   m_Speed: 1
   m_CycleOffset: 0
   m_Transitions: []
@@ -771,7 +771,7 @@ AnimatorState:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Fatz|ArmSwingL
+  m_Name: Pasqually|Arm Swing L
   m_Speed: 1
   m_CycleOffset: 0
   m_Transitions: []
@@ -841,7 +841,7 @@ AnimatorState:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Armature|Hihat
+  m_Name: Pasqually|Hihat
   m_Speed: 1
   m_CycleOffset: 0
   m_Transitions: []
@@ -867,7 +867,7 @@ AnimatorState:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Shoulder
+  m_Name: Pasqually|Arm Swing R
   m_Speed: 1
   m_CycleOffset: 0
   m_Transitions: []
@@ -915,7 +915,7 @@ AnimatorState:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Body Lean
+  m_Name: Pasqually|Body Lean
   m_Speed: 1
   m_CycleOffset: 0
   m_Transitions: []

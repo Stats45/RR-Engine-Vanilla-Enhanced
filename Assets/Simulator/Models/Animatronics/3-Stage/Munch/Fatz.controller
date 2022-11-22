@@ -7,7 +7,7 @@ AnimatorState:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Arm Twist
+  m_Name: Munch|Elbow R
   m_Speed: 1
   m_CycleOffset: 0
   m_Transitions: []
@@ -77,7 +77,7 @@ AnimatorState:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Eyes Left
+  m_Name: Munch|Eyes Left
   m_Speed: 1
   m_CycleOffset: 0
   m_Transitions: []
@@ -103,7 +103,7 @@ AnimatorState:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Fatz|FelbowL
+  m_Name: Munch|Elbow L
   m_Speed: 1
   m_CycleOffset: 0
   m_Transitions: []
@@ -129,7 +129,7 @@ AnimatorState:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Eyelid R
+  m_Name: Munch|Eyelid R
   m_Speed: 1
   m_CycleOffset: 0
   m_Transitions: []
@@ -155,7 +155,7 @@ AnimatorState:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Fatz|Eyes Right
+  m_Name: Munch|Eyes Right
   m_Speed: 1
   m_CycleOffset: 0
   m_Transitions: []
@@ -203,7 +203,7 @@ AnimatorState:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Head Up
+  m_Name: Munch|Head Up
   m_Speed: 1
   m_CycleOffset: 0
   m_Transitions: []
@@ -317,7 +317,7 @@ AnimatorState:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Mouth
+  m_Name: Munch|Mouth
   m_Speed: 1
   m_CycleOffset: 0
   m_Transitions: []
@@ -343,7 +343,7 @@ AnimatorState:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Head Left
+  m_Name: Munch|Head Left
   m_Speed: 1
   m_CycleOffset: 0
   m_Transitions: []
@@ -755,7 +755,7 @@ AnimatorState:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Head Right
+  m_Name: Munch|Head Right
   m_Speed: 1
   m_CycleOffset: 0
   m_Transitions: []
@@ -781,7 +781,7 @@ AnimatorState:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Eyelid L
+  m_Name: Munch|Eyelid L
   m_Speed: 1
   m_CycleOffset: 0
   m_Transitions: []
@@ -807,7 +807,7 @@ AnimatorState:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Fatz|Head Tip L
+  m_Name: Munch|Head Tip L
   m_Speed: 1
   m_CycleOffset: 0
   m_Transitions: []
@@ -855,7 +855,7 @@ AnimatorState:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Fatz|ArmSwingL
+  m_Name: Munch|Arm Swing L
   m_Speed: 1
   m_CycleOffset: 0
   m_Transitions: []
@@ -903,7 +903,7 @@ AnimatorState:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Fatz|Haed Tip R
+  m_Name: Munch|Head Tip R
   m_Speed: 1
   m_CycleOffset: 0
   m_Transitions: []
@@ -951,7 +951,7 @@ AnimatorState:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Shoulder
+  m_Name: Munch|Arm Swing R
   m_Speed: 1
   m_CycleOffset: 0
   m_Transitions: []
@@ -1021,7 +1021,7 @@ AnimatorState:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Fatz|Foot Tap
+  m_Name: Munch|Foot Tap
   m_Speed: 1
   m_CycleOffset: 0
   m_Transitions: []
@@ -1047,7 +1047,7 @@ AnimatorState:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Body Lean
+  m_Name: Munch|Body Lean
   m_Speed: 1
   m_CycleOffset: 0
   m_Transitions: []
