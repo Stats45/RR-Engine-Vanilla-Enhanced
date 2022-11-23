@@ -14629,7 +14629,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: The 64th Gamer 2022
+  m_Text: The 64th Gamer + EnderSkippy 2022
 --- !u!222 &1437838752
 CanvasRenderer:
   m_ObjectHideFlags: 0
