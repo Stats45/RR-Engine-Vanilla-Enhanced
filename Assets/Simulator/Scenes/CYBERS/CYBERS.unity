@@ -17449,6 +17449,10 @@ PrefabInstance:
       propertyPath: m_IsActive
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 5215550094865538389, guid: 7acf20c26d3308d4a933cbaf4a89948c, type: 3}
+      propertyPath: m_Texture
+      value: 
+      objectReference: {fileID: 2800000, guid: 24b5886f1c5510f42b72bffe6d96966c, type: 3}
     - target: {fileID: 5215550095263318370, guid: 7acf20c26d3308d4a933cbaf4a89948c, type: 3}
       propertyPath: thePlayer
       value: 
