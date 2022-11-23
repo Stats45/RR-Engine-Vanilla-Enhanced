@@ -1,6 +1,16 @@
 ![Reel to Reel Icon Stroke - Copy](https://user-images.githubusercontent.com/69170079/180670348-4175cc09-545a-4611-802f-b2d50ef1c0e3.png)
 
 # Description
+
+Vanilla Enhanced is a repository dedicated to bug fixes and minor enhancements that have been suggested by the community. The aim is to keep a vanilla feel while overall improving the user experience. 
+
+Note: Anyone's free to use this branch as a base for game mods.
+
+
+
+
+Original Description:
+
 The RR Engine is a Unity codebase for simulating and animating old animatronics, with various features to customize the viewing experience.
 
 The sofware is split into two major sections. The Editor Mode allows users to maticulously look and edit animation files,
