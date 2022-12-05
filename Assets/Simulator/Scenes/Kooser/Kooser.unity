@@ -5058,7 +5058,7 @@ PrefabInstance:
       objectReference: {fileID: 21300000, guid: ce823de7f8356d04caf005dbb81f7c06, type: 3}
     - target: {fileID: 5215550095897422191, guid: 7acf20c26d3308d4a933cbaf4a89948c, type: 3}
       propertyPath: recordingGroups.Array.data[6].groupName
-      value: Shared Lights
+      value: Classic Lights 1
       objectReference: {fileID: 0}
     - target: {fileID: 5215550095897422191, guid: 7acf20c26d3308d4a933cbaf4a89948c, type: 3}
       propertyPath: recordingGroups.Array.data[7].groupIcon
@@ -5066,7 +5066,7 @@ PrefabInstance:
       objectReference: {fileID: 21300000, guid: ce823de7f8356d04caf005dbb81f7c06, type: 3}
     - target: {fileID: 5215550095897422191, guid: 7acf20c26d3308d4a933cbaf4a89948c, type: 3}
       propertyPath: recordingGroups.Array.data[7].groupName
-      value: Classic Lights 1
+      value: Classic Lights 2
       objectReference: {fileID: 0}
     - target: {fileID: 5215550095897422191, guid: 7acf20c26d3308d4a933cbaf4a89948c, type: 3}
       propertyPath: recordingGroups.Array.data[8].groupIcon
@@ -5074,7 +5074,7 @@ PrefabInstance:
       objectReference: {fileID: 21300000, guid: ce823de7f8356d04caf005dbb81f7c06, type: 3}
     - target: {fileID: 5215550095897422191, guid: 7acf20c26d3308d4a933cbaf4a89948c, type: 3}
       propertyPath: recordingGroups.Array.data[8].groupName
-      value: Classic Lights 2
+      value: Shared Lights
       objectReference: {fileID: 0}
     - target: {fileID: 5215550095897422191, guid: 7acf20c26d3308d4a933cbaf4a89948c, type: 3}
       propertyPath: recordingGroups.Array.data[9].groupIcon
@@ -5158,15 +5158,15 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5215550095897422191, guid: 7acf20c26d3308d4a933cbaf4a89948c, type: 3}
       propertyPath: recordingGroups.Array.data[6].inputNames.Array.size
-      value: 6
-      objectReference: {fileID: 0}
-    - target: {fileID: 5215550095897422191, guid: 7acf20c26d3308d4a933cbaf4a89948c, type: 3}
-      propertyPath: recordingGroups.Array.data[7].inputNames.Array.size
       value: 15
       objectReference: {fileID: 0}
     - target: {fileID: 5215550095897422191, guid: 7acf20c26d3308d4a933cbaf4a89948c, type: 3}
-      propertyPath: recordingGroups.Array.data[8].inputNames.Array.size
+      propertyPath: recordingGroups.Array.data[7].inputNames.Array.size
       value: 14
+      objectReference: {fileID: 0}
+    - target: {fileID: 5215550095897422191, guid: 7acf20c26d3308d4a933cbaf4a89948c, type: 3}
+      propertyPath: recordingGroups.Array.data[8].inputNames.Array.size
+      value: 6
       objectReference: {fileID: 0}
     - target: {fileID: 5215550095897422191, guid: 7acf20c26d3308d4a933cbaf4a89948c, type: 3}
       propertyPath: recordingGroups.Array.data[9].inputNames.Array.size
@@ -5434,107 +5434,107 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5215550095897422191, guid: 7acf20c26d3308d4a933cbaf4a89948c, type: 3}
       propertyPath: recordingGroups.Array.data[6].inputNames.Array.data[0].name
-      value: Pasqually Spot
-      objectReference: {fileID: 0}
-    - target: {fileID: 5215550095897422191, guid: 7acf20c26d3308d4a933cbaf4a89948c, type: 3}
-      propertyPath: recordingGroups.Array.data[6].inputNames.Array.data[1].name
-      value: Helen Spot
-      objectReference: {fileID: 0}
-    - target: {fileID: 5215550095897422191, guid: 7acf20c26d3308d4a933cbaf4a89948c, type: 3}
-      propertyPath: recordingGroups.Array.data[6].inputNames.Array.data[2].name
-      value: Chuck Spot
-      objectReference: {fileID: 0}
-    - target: {fileID: 5215550095897422191, guid: 7acf20c26d3308d4a933cbaf4a89948c, type: 3}
-      propertyPath: recordingGroups.Array.data[6].inputNames.Array.data[3].name
-      value: Jasper Spot
-      objectReference: {fileID: 0}
-    - target: {fileID: 5215550095897422191, guid: 7acf20c26d3308d4a933cbaf4a89948c, type: 3}
-      propertyPath: recordingGroups.Array.data[6].inputNames.Array.data[4].name
-      value: Munch Spot
-      objectReference: {fileID: 0}
-    - target: {fileID: 5215550095897422191, guid: 7acf20c26d3308d4a933cbaf4a89948c, type: 3}
-      propertyPath: recordingGroups.Array.data[6].inputNames.Array.data[5].name
-      value: Dimmer
-      objectReference: {fileID: 0}
-    - target: {fileID: 5215550095897422191, guid: 7acf20c26d3308d4a933cbaf4a89948c, type: 3}
-      propertyPath: recordingGroups.Array.data[6].inputNames.Array.data[6].name
-      value: Turntable Mech
-      objectReference: {fileID: 0}
-    - target: {fileID: 5215550095897422191, guid: 7acf20c26d3308d4a933cbaf4a89948c, type: 3}
-      propertyPath: recordingGroups.Array.data[6].inputNames.Array.data[7].name
-      value: Turntable Live
-      objectReference: {fileID: 0}
-    - target: {fileID: 5215550095897422191, guid: 7acf20c26d3308d4a933cbaf4a89948c, type: 3}
-      propertyPath: recordingGroups.Array.data[6].inputNames.Array.data[8].name
-      value: Audsel 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 5215550095897422191, guid: 7acf20c26d3308d4a933cbaf4a89948c, type: 3}
-      propertyPath: recordingGroups.Array.data[6].inputNames.Array.data[9].name
-      value: Audsel 2
-      objectReference: {fileID: 0}
-    - target: {fileID: 5215550095897422191, guid: 7acf20c26d3308d4a933cbaf4a89948c, type: 3}
-      propertyPath: recordingGroups.Array.data[7].inputNames.Array.data[0].name
       value: Clapper Spot
       objectReference: {fileID: 0}
     - target: {fileID: 5215550095897422191, guid: 7acf20c26d3308d4a933cbaf4a89948c, type: 3}
-      propertyPath: recordingGroups.Array.data[7].inputNames.Array.data[1].name
+      propertyPath: recordingGroups.Array.data[6].inputNames.Array.data[1].name
       value: Intro
       objectReference: {fileID: 0}
     - target: {fileID: 5215550095897422191, guid: 7acf20c26d3308d4a933cbaf4a89948c, type: 3}
-      propertyPath: recordingGroups.Array.data[7].inputNames.Array.data[2].name
+      propertyPath: recordingGroups.Array.data[6].inputNames.Array.data[2].name
       value: Pasqually Flood
       objectReference: {fileID: 0}
     - target: {fileID: 5215550095897422191, guid: 7acf20c26d3308d4a933cbaf4a89948c, type: 3}
-      propertyPath: recordingGroups.Array.data[7].inputNames.Array.data[3].name
+      propertyPath: recordingGroups.Array.data[6].inputNames.Array.data[3].name
       value: Pasqually Spot
       objectReference: {fileID: 0}
     - target: {fileID: 5215550095897422191, guid: 7acf20c26d3308d4a933cbaf4a89948c, type: 3}
-      propertyPath: recordingGroups.Array.data[7].inputNames.Array.data[4].name
+      propertyPath: recordingGroups.Array.data[6].inputNames.Array.data[4].name
       value: Guest Flood
       objectReference: {fileID: 0}
     - target: {fileID: 5215550095897422191, guid: 7acf20c26d3308d4a933cbaf4a89948c, type: 3}
-      propertyPath: recordingGroups.Array.data[7].inputNames.Array.data[5].name
+      propertyPath: recordingGroups.Array.data[6].inputNames.Array.data[5].name
       value: Guest Spot
       objectReference: {fileID: 0}
     - target: {fileID: 5215550095897422191, guid: 7acf20c26d3308d4a933cbaf4a89948c, type: 3}
-      propertyPath: recordingGroups.Array.data[7].inputNames.Array.data[6].name
+      propertyPath: recordingGroups.Array.data[6].inputNames.Array.data[6].name
       value: Chuck Flood 1
       objectReference: {fileID: 0}
     - target: {fileID: 5215550095897422191, guid: 7acf20c26d3308d4a933cbaf4a89948c, type: 3}
-      propertyPath: recordingGroups.Array.data[7].inputNames.Array.data[7].name
+      propertyPath: recordingGroups.Array.data[6].inputNames.Array.data[7].name
       value: Chuck Spot
       objectReference: {fileID: 0}
     - target: {fileID: 5215550095897422191, guid: 7acf20c26d3308d4a933cbaf4a89948c, type: 3}
-      propertyPath: recordingGroups.Array.data[7].inputNames.Array.data[8].name
+      propertyPath: recordingGroups.Array.data[6].inputNames.Array.data[8].name
       value: Chuck Flood 2
       objectReference: {fileID: 0}
     - target: {fileID: 5215550095897422191, guid: 7acf20c26d3308d4a933cbaf4a89948c, type: 3}
-      propertyPath: recordingGroups.Array.data[7].inputNames.Array.data[9].name
+      propertyPath: recordingGroups.Array.data[6].inputNames.Array.data[9].name
       value: Jasper Flood
       objectReference: {fileID: 0}
     - target: {fileID: 5215550095897422191, guid: 7acf20c26d3308d4a933cbaf4a89948c, type: 3}
-      propertyPath: recordingGroups.Array.data[8].inputNames.Array.data[0].name
+      propertyPath: recordingGroups.Array.data[7].inputNames.Array.data[0].name
       value: Valence L
       objectReference: {fileID: 0}
     - target: {fileID: 5215550095897422191, guid: 7acf20c26d3308d4a933cbaf4a89948c, type: 3}
-      propertyPath: recordingGroups.Array.data[8].inputNames.Array.data[1].name
+      propertyPath: recordingGroups.Array.data[7].inputNames.Array.data[1].name
       value: Valence LC
       objectReference: {fileID: 0}
     - target: {fileID: 5215550095897422191, guid: 7acf20c26d3308d4a933cbaf4a89948c, type: 3}
-      propertyPath: recordingGroups.Array.data[8].inputNames.Array.data[2].name
+      propertyPath: recordingGroups.Array.data[7].inputNames.Array.data[2].name
       value: Valence C
       objectReference: {fileID: 0}
     - target: {fileID: 5215550095897422191, guid: 7acf20c26d3308d4a933cbaf4a89948c, type: 3}
-      propertyPath: recordingGroups.Array.data[8].inputNames.Array.data[3].name
+      propertyPath: recordingGroups.Array.data[7].inputNames.Array.data[3].name
       value: Valence RC
       objectReference: {fileID: 0}
     - target: {fileID: 5215550095897422191, guid: 7acf20c26d3308d4a933cbaf4a89948c, type: 3}
-      propertyPath: recordingGroups.Array.data[8].inputNames.Array.data[4].name
+      propertyPath: recordingGroups.Array.data[7].inputNames.Array.data[4].name
       value: Valence R
       objectReference: {fileID: 0}
     - target: {fileID: 5215550095897422191, guid: 7acf20c26d3308d4a933cbaf4a89948c, type: 3}
-      propertyPath: recordingGroups.Array.data[8].inputNames.Array.data[5].name
+      propertyPath: recordingGroups.Array.data[7].inputNames.Array.data[5].name
       value: Red Left
+      objectReference: {fileID: 0}
+    - target: {fileID: 5215550095897422191, guid: 7acf20c26d3308d4a933cbaf4a89948c, type: 3}
+      propertyPath: recordingGroups.Array.data[7].inputNames.Array.data[6].name
+      value: Amber Left
+      objectReference: {fileID: 0}
+    - target: {fileID: 5215550095897422191, guid: 7acf20c26d3308d4a933cbaf4a89948c, type: 3}
+      propertyPath: recordingGroups.Array.data[7].inputNames.Array.data[7].name
+      value: Blue Left
+      objectReference: {fileID: 0}
+    - target: {fileID: 5215550095897422191, guid: 7acf20c26d3308d4a933cbaf4a89948c, type: 3}
+      propertyPath: recordingGroups.Array.data[7].inputNames.Array.data[8].name
+      value: Red Center
+      objectReference: {fileID: 0}
+    - target: {fileID: 5215550095897422191, guid: 7acf20c26d3308d4a933cbaf4a89948c, type: 3}
+      propertyPath: recordingGroups.Array.data[7].inputNames.Array.data[9].name
+      value: Amber Center
+      objectReference: {fileID: 0}
+    - target: {fileID: 5215550095897422191, guid: 7acf20c26d3308d4a933cbaf4a89948c, type: 3}
+      propertyPath: recordingGroups.Array.data[8].inputNames.Array.data[0].name
+      value: Pasqually Spot
+      objectReference: {fileID: 0}
+    - target: {fileID: 5215550095897422191, guid: 7acf20c26d3308d4a933cbaf4a89948c, type: 3}
+      propertyPath: recordingGroups.Array.data[8].inputNames.Array.data[1].name
+      value: Helen Spot
+      objectReference: {fileID: 0}
+    - target: {fileID: 5215550095897422191, guid: 7acf20c26d3308d4a933cbaf4a89948c, type: 3}
+      propertyPath: recordingGroups.Array.data[8].inputNames.Array.data[2].name
+      value: Chuck Spot
+      objectReference: {fileID: 0}
+    - target: {fileID: 5215550095897422191, guid: 7acf20c26d3308d4a933cbaf4a89948c, type: 3}
+      propertyPath: recordingGroups.Array.data[8].inputNames.Array.data[3].name
+      value: Jasper Spot
+      objectReference: {fileID: 0}
+    - target: {fileID: 5215550095897422191, guid: 7acf20c26d3308d4a933cbaf4a89948c, type: 3}
+      propertyPath: recordingGroups.Array.data[8].inputNames.Array.data[4].name
+      value: Munch Spot
+      objectReference: {fileID: 0}
+    - target: {fileID: 5215550095897422191, guid: 7acf20c26d3308d4a933cbaf4a89948c, type: 3}
+      propertyPath: recordingGroups.Array.data[8].inputNames.Array.data[5].name
+      value: Dimmer
       objectReference: {fileID: 0}
     - target: {fileID: 5215550095897422191, guid: 7acf20c26d3308d4a933cbaf4a89948c, type: 3}
       propertyPath: recordingGroups.Array.data[8].inputNames.Array.data[6].name
@@ -5938,23 +5938,23 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5215550095897422191, guid: 7acf20c26d3308d4a933cbaf4a89948c, type: 3}
       propertyPath: recordingGroups.Array.data[6].inputNames.Array.data[10].name
-      value: Video Select 1
+      value: Jasper Spot
       objectReference: {fileID: 0}
     - target: {fileID: 5215550095897422191, guid: 7acf20c26d3308d4a933cbaf4a89948c, type: 3}
       propertyPath: recordingGroups.Array.data[6].inputNames.Array.data[11].name
-      value: Video Select 2
+      value: Munch Flood
       objectReference: {fileID: 0}
     - target: {fileID: 5215550095897422191, guid: 7acf20c26d3308d4a933cbaf4a89948c, type: 3}
       propertyPath: recordingGroups.Array.data[6].inputNames.Array.data[12].name
-      value: Jasper Building
+      value: Munch Spot
       objectReference: {fileID: 0}
     - target: {fileID: 5215550095897422191, guid: 7acf20c26d3308d4a933cbaf4a89948c, type: 3}
       propertyPath: recordingGroups.Array.data[6].inputNames.Array.data[13].name
-      value: Organ Leg Middle
+      value: Bird Flood
       objectReference: {fileID: 0}
     - target: {fileID: 5215550095897422191, guid: 7acf20c26d3308d4a933cbaf4a89948c, type: 3}
       propertyPath: recordingGroups.Array.data[6].inputNames.Array.data[14].name
-      value: Jasper Spot
+      value: Bird Spot
       objectReference: {fileID: 0}
     - target: {fileID: 5215550095897422191, guid: 7acf20c26d3308d4a933cbaf4a89948c, type: 3}
       propertyPath: recordingGroups.Array.data[6].inputNames.Array.data[15].name
@@ -5974,19 +5974,19 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5215550095897422191, guid: 7acf20c26d3308d4a933cbaf4a89948c, type: 3}
       propertyPath: recordingGroups.Array.data[7].inputNames.Array.data[10].name
-      value: Jasper Spot
+      value: Blue Center
       objectReference: {fileID: 0}
     - target: {fileID: 5215550095897422191, guid: 7acf20c26d3308d4a933cbaf4a89948c, type: 3}
       propertyPath: recordingGroups.Array.data[7].inputNames.Array.data[11].name
-      value: Munch Flood
+      value: Red Right
       objectReference: {fileID: 0}
     - target: {fileID: 5215550095897422191, guid: 7acf20c26d3308d4a933cbaf4a89948c, type: 3}
       propertyPath: recordingGroups.Array.data[7].inputNames.Array.data[12].name
-      value: Munch Spot
+      value: Amber Right
       objectReference: {fileID: 0}
     - target: {fileID: 5215550095897422191, guid: 7acf20c26d3308d4a933cbaf4a89948c, type: 3}
       propertyPath: recordingGroups.Array.data[7].inputNames.Array.data[13].name
-      value: Bird Flood
+      value: Blue Right
       objectReference: {fileID: 0}
     - target: {fileID: 5215550095897422191, guid: 7acf20c26d3308d4a933cbaf4a89948c, type: 3}
       propertyPath: recordingGroups.Array.data[7].inputNames.Array.data[14].name
@@ -7158,107 +7158,107 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5215550095897422191, guid: 7acf20c26d3308d4a933cbaf4a89948c, type: 3}
       propertyPath: recordingGroups.Array.data[6].inputNames.Array.data[0].index.Array.data[0]
-      value: 100
-      objectReference: {fileID: 0}
-    - target: {fileID: 5215550095897422191, guid: 7acf20c26d3308d4a933cbaf4a89948c, type: 3}
-      propertyPath: recordingGroups.Array.data[6].inputNames.Array.data[1].index.Array.data[0]
-      value: 102
-      objectReference: {fileID: 0}
-    - target: {fileID: 5215550095897422191, guid: 7acf20c26d3308d4a933cbaf4a89948c, type: 3}
-      propertyPath: recordingGroups.Array.data[6].inputNames.Array.data[2].index.Array.data[0]
-      value: 104
-      objectReference: {fileID: 0}
-    - target: {fileID: 5215550095897422191, guid: 7acf20c26d3308d4a933cbaf4a89948c, type: 3}
-      propertyPath: recordingGroups.Array.data[6].inputNames.Array.data[3].index.Array.data[0]
-      value: 107
-      objectReference: {fileID: 0}
-    - target: {fileID: 5215550095897422191, guid: 7acf20c26d3308d4a933cbaf4a89948c, type: 3}
-      propertyPath: recordingGroups.Array.data[6].inputNames.Array.data[4].index.Array.data[0]
-      value: 109
-      objectReference: {fileID: 0}
-    - target: {fileID: 5215550095897422191, guid: 7acf20c26d3308d4a933cbaf4a89948c, type: 3}
-      propertyPath: recordingGroups.Array.data[6].inputNames.Array.data[5].index.Array.data[0]
-      value: 73
-      objectReference: {fileID: 0}
-    - target: {fileID: 5215550095897422191, guid: 7acf20c26d3308d4a933cbaf4a89948c, type: 3}
-      propertyPath: recordingGroups.Array.data[6].inputNames.Array.data[6].index.Array.data[0]
-      value: 57
-      objectReference: {fileID: 0}
-    - target: {fileID: 5215550095897422191, guid: 7acf20c26d3308d4a933cbaf4a89948c, type: 3}
-      propertyPath: recordingGroups.Array.data[6].inputNames.Array.data[7].index.Array.data[0]
-      value: 58
-      objectReference: {fileID: 0}
-    - target: {fileID: 5215550095897422191, guid: 7acf20c26d3308d4a933cbaf4a89948c, type: 3}
-      propertyPath: recordingGroups.Array.data[6].inputNames.Array.data[8].index.Array.data[0]
-      value: 81
-      objectReference: {fileID: 0}
-    - target: {fileID: 5215550095897422191, guid: 7acf20c26d3308d4a933cbaf4a89948c, type: 3}
-      propertyPath: recordingGroups.Array.data[6].inputNames.Array.data[9].index.Array.data[0]
-      value: 82
-      objectReference: {fileID: 0}
-    - target: {fileID: 5215550095897422191, guid: 7acf20c26d3308d4a933cbaf4a89948c, type: 3}
-      propertyPath: recordingGroups.Array.data[7].inputNames.Array.data[0].index.Array.data[0]
       value: 97
       objectReference: {fileID: 0}
     - target: {fileID: 5215550095897422191, guid: 7acf20c26d3308d4a933cbaf4a89948c, type: 3}
-      propertyPath: recordingGroups.Array.data[7].inputNames.Array.data[1].index.Array.data[0]
+      propertyPath: recordingGroups.Array.data[6].inputNames.Array.data[1].index.Array.data[0]
       value: 98
       objectReference: {fileID: 0}
     - target: {fileID: 5215550095897422191, guid: 7acf20c26d3308d4a933cbaf4a89948c, type: 3}
-      propertyPath: recordingGroups.Array.data[7].inputNames.Array.data[2].index.Array.data[0]
+      propertyPath: recordingGroups.Array.data[6].inputNames.Array.data[2].index.Array.data[0]
       value: 99
       objectReference: {fileID: 0}
     - target: {fileID: 5215550095897422191, guid: 7acf20c26d3308d4a933cbaf4a89948c, type: 3}
-      propertyPath: recordingGroups.Array.data[7].inputNames.Array.data[3].index.Array.data[0]
+      propertyPath: recordingGroups.Array.data[6].inputNames.Array.data[3].index.Array.data[0]
       value: 100
       objectReference: {fileID: 0}
     - target: {fileID: 5215550095897422191, guid: 7acf20c26d3308d4a933cbaf4a89948c, type: 3}
-      propertyPath: recordingGroups.Array.data[7].inputNames.Array.data[4].index.Array.data[0]
+      propertyPath: recordingGroups.Array.data[6].inputNames.Array.data[4].index.Array.data[0]
       value: 101
       objectReference: {fileID: 0}
     - target: {fileID: 5215550095897422191, guid: 7acf20c26d3308d4a933cbaf4a89948c, type: 3}
-      propertyPath: recordingGroups.Array.data[7].inputNames.Array.data[5].index.Array.data[0]
+      propertyPath: recordingGroups.Array.data[6].inputNames.Array.data[5].index.Array.data[0]
       value: 102
       objectReference: {fileID: 0}
     - target: {fileID: 5215550095897422191, guid: 7acf20c26d3308d4a933cbaf4a89948c, type: 3}
-      propertyPath: recordingGroups.Array.data[7].inputNames.Array.data[6].index.Array.data[0]
+      propertyPath: recordingGroups.Array.data[6].inputNames.Array.data[6].index.Array.data[0]
       value: 103
       objectReference: {fileID: 0}
     - target: {fileID: 5215550095897422191, guid: 7acf20c26d3308d4a933cbaf4a89948c, type: 3}
-      propertyPath: recordingGroups.Array.data[7].inputNames.Array.data[7].index.Array.data[0]
+      propertyPath: recordingGroups.Array.data[6].inputNames.Array.data[7].index.Array.data[0]
       value: 104
       objectReference: {fileID: 0}
     - target: {fileID: 5215550095897422191, guid: 7acf20c26d3308d4a933cbaf4a89948c, type: 3}
-      propertyPath: recordingGroups.Array.data[7].inputNames.Array.data[8].index.Array.data[0]
+      propertyPath: recordingGroups.Array.data[6].inputNames.Array.data[8].index.Array.data[0]
       value: 105
       objectReference: {fileID: 0}
     - target: {fileID: 5215550095897422191, guid: 7acf20c26d3308d4a933cbaf4a89948c, type: 3}
-      propertyPath: recordingGroups.Array.data[7].inputNames.Array.data[9].index.Array.data[0]
+      propertyPath: recordingGroups.Array.data[6].inputNames.Array.data[9].index.Array.data[0]
       value: 106
       objectReference: {fileID: 0}
     - target: {fileID: 5215550095897422191, guid: 7acf20c26d3308d4a933cbaf4a89948c, type: 3}
-      propertyPath: recordingGroups.Array.data[8].inputNames.Array.data[0].index.Array.data[0]
+      propertyPath: recordingGroups.Array.data[7].inputNames.Array.data[0].index.Array.data[0]
       value: 113
       objectReference: {fileID: 0}
     - target: {fileID: 5215550095897422191, guid: 7acf20c26d3308d4a933cbaf4a89948c, type: 3}
-      propertyPath: recordingGroups.Array.data[8].inputNames.Array.data[1].index.Array.data[0]
+      propertyPath: recordingGroups.Array.data[7].inputNames.Array.data[1].index.Array.data[0]
       value: 114
       objectReference: {fileID: 0}
     - target: {fileID: 5215550095897422191, guid: 7acf20c26d3308d4a933cbaf4a89948c, type: 3}
-      propertyPath: recordingGroups.Array.data[8].inputNames.Array.data[2].index.Array.data[0]
+      propertyPath: recordingGroups.Array.data[7].inputNames.Array.data[2].index.Array.data[0]
       value: 115
       objectReference: {fileID: 0}
     - target: {fileID: 5215550095897422191, guid: 7acf20c26d3308d4a933cbaf4a89948c, type: 3}
-      propertyPath: recordingGroups.Array.data[8].inputNames.Array.data[3].index.Array.data[0]
+      propertyPath: recordingGroups.Array.data[7].inputNames.Array.data[3].index.Array.data[0]
       value: 116
       objectReference: {fileID: 0}
     - target: {fileID: 5215550095897422191, guid: 7acf20c26d3308d4a933cbaf4a89948c, type: 3}
-      propertyPath: recordingGroups.Array.data[8].inputNames.Array.data[4].index.Array.data[0]
+      propertyPath: recordingGroups.Array.data[7].inputNames.Array.data[4].index.Array.data[0]
       value: 117
       objectReference: {fileID: 0}
     - target: {fileID: 5215550095897422191, guid: 7acf20c26d3308d4a933cbaf4a89948c, type: 3}
-      propertyPath: recordingGroups.Array.data[8].inputNames.Array.data[5].index.Array.data[0]
+      propertyPath: recordingGroups.Array.data[7].inputNames.Array.data[5].index.Array.data[0]
       value: 118
+      objectReference: {fileID: 0}
+    - target: {fileID: 5215550095897422191, guid: 7acf20c26d3308d4a933cbaf4a89948c, type: 3}
+      propertyPath: recordingGroups.Array.data[7].inputNames.Array.data[6].index.Array.data[0]
+      value: 119
+      objectReference: {fileID: 0}
+    - target: {fileID: 5215550095897422191, guid: 7acf20c26d3308d4a933cbaf4a89948c, type: 3}
+      propertyPath: recordingGroups.Array.data[7].inputNames.Array.data[7].index.Array.data[0]
+      value: 120
+      objectReference: {fileID: 0}
+    - target: {fileID: 5215550095897422191, guid: 7acf20c26d3308d4a933cbaf4a89948c, type: 3}
+      propertyPath: recordingGroups.Array.data[7].inputNames.Array.data[8].index.Array.data[0]
+      value: 121
+      objectReference: {fileID: 0}
+    - target: {fileID: 5215550095897422191, guid: 7acf20c26d3308d4a933cbaf4a89948c, type: 3}
+      propertyPath: recordingGroups.Array.data[7].inputNames.Array.data[9].index.Array.data[0]
+      value: 122
+      objectReference: {fileID: 0}
+    - target: {fileID: 5215550095897422191, guid: 7acf20c26d3308d4a933cbaf4a89948c, type: 3}
+      propertyPath: recordingGroups.Array.data[8].inputNames.Array.data[0].index.Array.data[0]
+      value: 100
+      objectReference: {fileID: 0}
+    - target: {fileID: 5215550095897422191, guid: 7acf20c26d3308d4a933cbaf4a89948c, type: 3}
+      propertyPath: recordingGroups.Array.data[8].inputNames.Array.data[1].index.Array.data[0]
+      value: 102
+      objectReference: {fileID: 0}
+    - target: {fileID: 5215550095897422191, guid: 7acf20c26d3308d4a933cbaf4a89948c, type: 3}
+      propertyPath: recordingGroups.Array.data[8].inputNames.Array.data[2].index.Array.data[0]
+      value: 104
+      objectReference: {fileID: 0}
+    - target: {fileID: 5215550095897422191, guid: 7acf20c26d3308d4a933cbaf4a89948c, type: 3}
+      propertyPath: recordingGroups.Array.data[8].inputNames.Array.data[3].index.Array.data[0]
+      value: 107
+      objectReference: {fileID: 0}
+    - target: {fileID: 5215550095897422191, guid: 7acf20c26d3308d4a933cbaf4a89948c, type: 3}
+      propertyPath: recordingGroups.Array.data[8].inputNames.Array.data[4].index.Array.data[0]
+      value: 109
+      objectReference: {fileID: 0}
+    - target: {fileID: 5215550095897422191, guid: 7acf20c26d3308d4a933cbaf4a89948c, type: 3}
+      propertyPath: recordingGroups.Array.data[8].inputNames.Array.data[5].index.Array.data[0]
+      value: 73
       objectReference: {fileID: 0}
     - target: {fileID: 5215550095897422191, guid: 7acf20c26d3308d4a933cbaf4a89948c, type: 3}
       propertyPath: recordingGroups.Array.data[8].inputNames.Array.data[6].index.Array.data[0]
@@ -7770,23 +7770,23 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5215550095897422191, guid: 7acf20c26d3308d4a933cbaf4a89948c, type: 3}
       propertyPath: recordingGroups.Array.data[6].inputNames.Array.data[10].index.Array.data[0]
-      value: 88
+      value: 107
       objectReference: {fileID: 0}
     - target: {fileID: 5215550095897422191, guid: 7acf20c26d3308d4a933cbaf4a89948c, type: 3}
       propertyPath: recordingGroups.Array.data[6].inputNames.Array.data[11].index.Array.data[0]
-      value: 89
+      value: 108
       objectReference: {fileID: 0}
     - target: {fileID: 5215550095897422191, guid: 7acf20c26d3308d4a933cbaf4a89948c, type: 3}
       propertyPath: recordingGroups.Array.data[6].inputNames.Array.data[12].index.Array.data[0]
-      value: 106
+      value: 109
       objectReference: {fileID: 0}
     - target: {fileID: 5215550095897422191, guid: 7acf20c26d3308d4a933cbaf4a89948c, type: 3}
       propertyPath: recordingGroups.Array.data[6].inputNames.Array.data[13].index.Array.data[0]
-      value: 106
+      value: 110
       objectReference: {fileID: 0}
     - target: {fileID: 5215550095897422191, guid: 7acf20c26d3308d4a933cbaf4a89948c, type: 3}
       propertyPath: recordingGroups.Array.data[6].inputNames.Array.data[14].index.Array.data[0]
-      value: 107
+      value: 111
       objectReference: {fileID: 0}
     - target: {fileID: 5215550095897422191, guid: 7acf20c26d3308d4a933cbaf4a89948c, type: 3}
       propertyPath: recordingGroups.Array.data[6].inputNames.Array.data[15].index.Array.data[0]
@@ -7806,19 +7806,19 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5215550095897422191, guid: 7acf20c26d3308d4a933cbaf4a89948c, type: 3}
       propertyPath: recordingGroups.Array.data[7].inputNames.Array.data[10].index.Array.data[0]
-      value: 107
+      value: 123
       objectReference: {fileID: 0}
     - target: {fileID: 5215550095897422191, guid: 7acf20c26d3308d4a933cbaf4a89948c, type: 3}
       propertyPath: recordingGroups.Array.data[7].inputNames.Array.data[11].index.Array.data[0]
-      value: 108
+      value: 124
       objectReference: {fileID: 0}
     - target: {fileID: 5215550095897422191, guid: 7acf20c26d3308d4a933cbaf4a89948c, type: 3}
       propertyPath: recordingGroups.Array.data[7].inputNames.Array.data[12].index.Array.data[0]
-      value: 109
+      value: 125
       objectReference: {fileID: 0}
     - target: {fileID: 5215550095897422191, guid: 7acf20c26d3308d4a933cbaf4a89948c, type: 3}
       propertyPath: recordingGroups.Array.data[7].inputNames.Array.data[13].index.Array.data[0]
-      value: 110
+      value: 126
       objectReference: {fileID: 0}
     - target: {fileID: 5215550095897422191, guid: 7acf20c26d3308d4a933cbaf4a89948c, type: 3}
       propertyPath: recordingGroups.Array.data[7].inputNames.Array.data[14].index.Array.data[0]
