@@ -112,41 +112,45 @@ public class GlobalController : MonoBehaviour
         if (!TwoJoined)
         {
             TwoJoined = true;
+            //Temporarily disabled
 
             //Player 2
-            GameObject playernew = GameObject.Instantiate(player);
-            playernew.name = "Player 2";
-            playernew.transform.Find("PlayerModel").Find("MainBody").GetComponent<CharPrefaber>().playerNum = 2;
-            playernew.transform.Find("PlayerModel").Find("MainBody").GetComponent<CharPrefaber>().LoadCharacterData();
-            if (GameVersion.gameName == "Faz-Anim")
-            {
-                playernew.transform.position = new Vector3(0f, -0.7132773f, 0f);
-            }
-            else
-            {
-                playernew.transform.position = new Vector3(44.86588f, -1.078f, -4.248048f);
-            }
-            playernew.transform.rotation = Quaternion.Euler(new Vector3(0.0f, 270.0f, 0.0f));
-            DontDestroyOnLoad(playernew);
-            playernew.GetComponent<Player>().controlType = Player.ControllerType.gamepad;
-            playernew.transform.Find("Cursor").Find("Image").GetComponent<RectTransform>().anchoredPosition = new Vector2(500, 0);
-            SetLayerRecursively(playernew.transform.Find("PlayerModel").gameObject, 7);
-            playernew.transform.Find("Main Camera").GetComponent<Volume>().profile = regularVolume;
-            Destroy(playernew.transform.Find("Main Camera").GetComponent<AudioListener>());
-            Camera cam = playernew.transform.Find("Main Camera").GetComponent<Camera>();
-            cam.cullingMask = cam.cullingMask & ~(1 << 7);
-            cam.cullingMask = cam.cullingMask | (1 << 6);
-            cam.rect = new Rect(0.5f, 0, 0.5f, 1);
+
+            //GameObject playernew = GameObject.Instantiate(player);
+            //playernew.name = "Player 2";
+            //playernew.transform.Find("PlayerModel").Find("MainBody").GetComponent<CharPrefaber>().playerNum = 2;
+            //playernew.transform.Find("PlayerModel").Find("MainBody").GetComponent<CharPrefaber>().LoadCharacterData();
+            //if (GameVersion.gameName == "Faz-Anim")
+            //{
+                //playernew.transform.position = new Vector3(0f, -0.7132773f, 0f);
+            //}
+            //else
+            //{
+                //playernew.transform.position = new Vector3(44.86588f, -1.078f, -4.248048f);
+            //}
+            //playernew.transform.rotation = Quaternion.Euler(new Vector3(0.0f, 270.0f, 0.0f));
+            //DontDestroyOnLoad(playernew);
+            //playernew.GetComponent<Player>().controlType = Player.ControllerType.gamepad;
+            //playernew.transform.Find("Cursor").Find("Image").GetComponent<RectTransform>().anchoredPosition = new Vector2(500, 0);
+            //SetLayerRecursively(playernew.transform.Find("PlayerModel").gameObject, 7);
+            //playernew.transform.Find("Main Camera").GetComponent<Volume>().profile = regularVolume;
+            //Destroy(playernew.transform.Find("Main Camera").GetComponent<AudioListener>());
+            //Camera cam = playernew.transform.Find("Main Camera").GetComponent<Camera>();
+            //cam.cullingMask = cam.cullingMask & ~(1 << 7);
+            //cam.cullingMask = cam.cullingMask | (1 << 6);
+            //cam.rect = new Rect(0.5f, 0, 0.5f, 1);
 
             //Player 1
-            GameObject playerold = GameObject.Find("Player");
-            playerold.transform.Find("Main Camera").GetComponent<Camera>().rect = new Rect(0, 0, 0.5f, 1);
-            playerold.transform.Find("Cursor").Find("Image").GetComponent<RectTransform>().anchoredPosition = new Vector2(-500, 0);
-            playerold.transform.Find("PlayerModel").Find("MainBody").GetComponent<CharPrefaber>().playerNum = 1;
-            playerold.transform.Find("PlayerModel").Find("MainBody").GetComponent<CharPrefaber>().LoadCharacterData();
+
+            //GameObject playerold = GameObject.Find("Player");
+            //playerold.transform.Find("Main Camera").GetComponent<Camera>().rect = new Rect(0, 0, 0.5f, 1);
+            //playerold.transform.Find("Cursor").Find("Image").GetComponent<RectTransform>().anchoredPosition = new Vector2(-500, 0);
+            //playerold.transform.Find("PlayerModel").Find("MainBody").GetComponent<CharPrefaber>().playerNum = 1;
+            //playerold.transform.Find("PlayerModel").Find("MainBody").GetComponent<CharPrefaber>().LoadCharacterData();
 
             //Both
-            ApplyCamSettings(GameObject.Find("Player"));
+
+            //ApplyCamSettings(GameObject.Find("Player"));
         }
     }
 
