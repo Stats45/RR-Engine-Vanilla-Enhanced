@@ -10856,6 +10856,58 @@ PrefabInstance:
       propertyPath: FileExtention
       value: kflow
       objectReference: {fileID: 0}
+    - target: {fileID: 4389269856851502467, guid: 7317c0414aa0345428649f966e7f42b6, type: 3}
+      propertyPath: camProfiles.Array.size
+      value: 13
+      objectReference: {fileID: 0}
+    - target: {fileID: 4389269856851502467, guid: 7317c0414aa0345428649f966e7f42b6, type: 3}
+      propertyPath: camProfiles.Array.data[1]
+      value: 
+      objectReference: {fileID: 11400000, guid: 394c414d7c8bee847a8643d79968c817, type: 2}
+    - target: {fileID: 4389269856851502467, guid: 7317c0414aa0345428649f966e7f42b6, type: 3}
+      propertyPath: camProfiles.Array.data[2]
+      value: 
+      objectReference: {fileID: 11400000, guid: e6b2464495d0a2d4c85ca6ad49373773, type: 2}
+    - target: {fileID: 4389269856851502467, guid: 7317c0414aa0345428649f966e7f42b6, type: 3}
+      propertyPath: camProfiles.Array.data[3]
+      value: 
+      objectReference: {fileID: 11400000, guid: 00a1291df49982049bcdfc650d804ffc, type: 2}
+    - target: {fileID: 4389269856851502467, guid: 7317c0414aa0345428649f966e7f42b6, type: 3}
+      propertyPath: camProfiles.Array.data[4]
+      value: 
+      objectReference: {fileID: 11400000, guid: 3497e7de701986d4cbfedd1c699a51f5, type: 2}
+    - target: {fileID: 4389269856851502467, guid: 7317c0414aa0345428649f966e7f42b6, type: 3}
+      propertyPath: camProfiles.Array.data[5]
+      value: 
+      objectReference: {fileID: 11400000, guid: e3e7eb4f97ff86b42b215fb7b887bddb, type: 2}
+    - target: {fileID: 4389269856851502467, guid: 7317c0414aa0345428649f966e7f42b6, type: 3}
+      propertyPath: camProfiles.Array.data[6]
+      value: 
+      objectReference: {fileID: 11400000, guid: 6cc5adfe34c03c04492e91f4461cbfc6, type: 2}
+    - target: {fileID: 4389269856851502467, guid: 7317c0414aa0345428649f966e7f42b6, type: 3}
+      propertyPath: camProfiles.Array.data[7]
+      value: 
+      objectReference: {fileID: 11400000, guid: f65748041d0f051408183d28646eb2ed, type: 2}
+    - target: {fileID: 4389269856851502467, guid: 7317c0414aa0345428649f966e7f42b6, type: 3}
+      propertyPath: camProfiles.Array.data[8]
+      value: 
+      objectReference: {fileID: 11400000, guid: 73b7c976c933ede42b1b0ae7b53653ff, type: 2}
+    - target: {fileID: 4389269856851502467, guid: 7317c0414aa0345428649f966e7f42b6, type: 3}
+      propertyPath: camProfiles.Array.data[9]
+      value: 
+      objectReference: {fileID: 11400000, guid: 971a9e997899ff941acdce4ccc05da5e, type: 2}
+    - target: {fileID: 4389269856851502467, guid: 7317c0414aa0345428649f966e7f42b6, type: 3}
+      propertyPath: camProfiles.Array.data[10]
+      value: 
+      objectReference: {fileID: 11400000, guid: 7d06f62c66b10cf40a2a208dbd33b91b, type: 2}
+    - target: {fileID: 4389269856851502467, guid: 7317c0414aa0345428649f966e7f42b6, type: 3}
+      propertyPath: camProfiles.Array.data[11]
+      value: 
+      objectReference: {fileID: 11400000, guid: 41e638ee8b2b7304795c79832b316179, type: 2}
+    - target: {fileID: 4389269856851502467, guid: 7317c0414aa0345428649f966e7f42b6, type: 3}
+      propertyPath: camProfiles.Array.data[12]
+      value: 
+      objectReference: {fileID: 11400000, guid: 7f1e4f4d65ac060429027708d25bd563, type: 2}
     m_RemovedComponents: []
     m_AddedGameObjects: []
   m_SourcePrefab: {fileID: 100100000, guid: 7317c0414aa0345428649f966e7f42b6, type: 3}
