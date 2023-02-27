@@ -247,7 +247,7 @@ public class UI_ShowtapeManager : MonoBehaviour
                         }
 
                         //Check if show is over
-                        if ((!useVideoAsReference && referenceSpeaker.time >= (speakerClip.length * speakerClip.channels))
+                        if ((!useVideoAsReference && referenceSpeaker.time >= speakerClip.length)
                         || (useVideoAsReference && referenceVideo.time >= (referenceVideo.length * referenceVideo.GetAudioChannelCount(0))))
                         {
 
